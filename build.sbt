@@ -1,0 +1,3 @@
+name := "scalaWords"
+
+version := "0.0.1"
